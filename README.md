@@ -46,3 +46,8 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/ppc-ntu-khpi/identifiers-types-starter)](https://repl.it/github/ppc-ntu-khpi/identifiers-types-starter) [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+# Завдання
+Я обрала завдання номер 13. **Зашифрувати задану фразу шифром Цезаря з заданою величиною зсуву N.**
+## Його опис
+Шифр Цезаря або шифр зсуву — симетричний моноалфавітний алгоритм шифрування, в якому кожна буква відкритого тексту заміняється на ту, що віддалена від неї в алфавіті на сталу кількість позицій.
+![](https://github.com/ppc-ntu-khpi/java-first-rronik3/blob/main/Solution/task1.1.png?raw=true))/workspaces/methods-rronik3/Exercise.png
